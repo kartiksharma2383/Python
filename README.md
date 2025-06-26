@@ -1,1 +1,1 @@
-# Python
+This repository is a collection of beginner-level Python notebooks designed to build a strong foundation in programming. It covers essential topics such as variables, data types, operators, loops, functions, and type conversion, with clear explanations and examples. The notebooks are structured to help new learners understand Python syntax and logic step by step. A simple project, the BMI Calculator, is also included to apply learned concepts in a practical scenario. 
