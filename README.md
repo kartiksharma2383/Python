@@ -1,1 +1,1 @@
-
+This repository provides a comprehensive guide to Python fundamentals for data science. It covers variables, data types, operators, loops, type conversion, counters, ordered/default dictionaries, functions with recursion, exception handling, and file handling. The collection builds a strong Python foundation essential for programming, analytics, and real-world data applications.
